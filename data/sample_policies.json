@@ -1,0 +1,29 @@
+[
+  {
+    "policy_number": "INS-2024-001",
+    "customer_name": "John Smith",
+    "customer_email": "john.smith@email.com",
+    "coverage_types": ["fire", "water damage", "collision"],
+    "deductible": 500,
+    "max_coverage": 10000,
+    "exclusions": ["intentional damage", "war", "nuclear events"]
+  },
+  {
+    "policy_number": "INS-2024-002",
+    "customer_name": "Jane Doe",
+    "customer_email": "jane.doe@email.com",
+    "coverage_types": ["collision", "theft"],
+    "deductible": 1000,
+    "max_coverage": 25000,
+    "exclusions": ["racing", "DUI incidents", "cosmetic damage"]
+  },
+  {
+    "policy_number": "INS-2024-003",
+    "customer_name": "Bob Johnson",
+    "customer_email": "bob.johnson@email.com",
+    "coverage_types": ["fire", "water damage", "collision", "theft", "natural disaster", "vandalism"],
+    "deductible": 250,
+    "max_coverage": 50000,
+    "exclusions": ["mechanical breakdown", "normal wear and tear", "consequential losses"]
+  }
+]

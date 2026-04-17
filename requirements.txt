@@ -1,0 +1,24 @@
+# Core UI
+streamlit>=1.28.0
+
+# Deep learning – vision model
+torch>=2.0.0
+transformers>=4.35.0
+
+# Image/document processing
+Pillow>=10.0.0
+PyMuPDF>=1.23.0
+opencv-python>=4.8.0
+
+# HTTP client (Ollama API calls)
+requests>=2.31.0
+
+# RAG – embeddings and vector store
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+
+# Data validation
+pydantic>=2.0.0
+
+# Numerical computing
+numpy>=1.24.0
